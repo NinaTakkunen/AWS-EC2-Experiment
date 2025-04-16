@@ -16,7 +16,6 @@ In this project, I practiced setting up a personal web server using Amazon Web S
 
 - Amazon Web Services (AWS EC2)
 - Amazon Linux 2023
-- Apache HTTP Server
 - PuTTY (SSH connection)
 - SCP (Secure Copy for file transfer)
 - HTML5 + CSS
