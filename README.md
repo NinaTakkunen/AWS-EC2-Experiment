@@ -40,4 +40,4 @@ In this project, I practiced setting up a personal web server using Amazon Web S
 - How to launch a cloud-based virtual server
 - Basics of Linux management
 - How to install and manage HHTP Server
-- How to deploy ans serve static websites from EC2
+- How to deploy and serve static websites from EC2
