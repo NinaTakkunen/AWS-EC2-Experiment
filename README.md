@@ -28,7 +28,7 @@ In this project, I practiced setting up a personal web server using Amazon Web S
 1. Launch an EC2 instance via the AWS Console
 2. Open port 80 (HTTP) in the instance’s Security Group
 3. Connect to the instance using PuTTY
-4. Install Apache HTTP Server
+4. Install HTTP Server
 5. Move your files to the web directory
 6. Start the server
 7. Open a browser and visit!
